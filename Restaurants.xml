@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="application/xml"?>
+<restaurants-data>
+    <restaurant-info>
+        <restaurant>
+            <name>Funn Wind</name>
+            <country>Lithuania</country>
+            <city>Vilnius</city>
+            <address>Gluosniu.g.2</address>
+            <email>linksmasvejas@gmail.com</email>
+            <number>879658236</number>
+        </restaurant>
+        <Category>
+            <name>American cuisine</name>
+        </Category>
+        <Dishes>
+            <dishName>Raspberry Chocolate Tart</dishName>
+            <category>Cake</category>
+            <description>Ingredients: Flour, Eggs, Cream, Butter, Sugar, Milk, Chocolate,
+                Raspberries, Pistachio Nuts, Gelatin.</description>
+            <price>6.50</price>
+        </Dishes>
+        <Dishes>
+            <dishName>Black Forest Gateau</dishName>
+            <category>Individual cakes</category>
+            <description> Ingredients: Flour, Eggs, Cream, Sugar, Chocolate,
+                Cassis Puree, Cherries, Gelatin, Black Berry, Mint Leaf.</description>
+            <price>5.60</price>
+        </Dishes>
+
+    </restaurant-info>
+    <restaurant-info>
+        <restaurant>
+            <name>French taste</name>
+            <country>Jk</country>
+            <city>Peston</city>
+            <address>Crown St 45</address>
+            <email>frenchtaste@email.lt</email>
+            <number>365735547</number>
+        </restaurant>
+        <Category>
+            <name>French cuisine</name>
+        </Category>
+        <Dishes>
+            <dishName>Macaroons</dishName>
+            <category>Macaroons &amp; biscuits</category>
+            <description>Flavours: Vanilla, Chocolate, Green Tea, Raspberry, Sesame, Earl Grey.</description>
+            <price>2.10</price>
+        </Dishes>
+        <Dishes>
+            <dishName>Madeleine</dishName>
+            <category>Macaroons &amp; biscuits</category>
+            <description>Ingredients: Flour, Eggs, Sugar, Butter, Lemon, Almond Flakes.</description>
+            <price>2.20</price>
+        </Dishes>
+
+    </restaurant-info>
+    <restaurant-info>
+        <restaurant>
+            <name>Italian taste</name>
+            <country>Italy</country>
+            <city>Venecija</city>
+            <address>Via Brendole 154</address>
+            <email>italy@email.lt</email>
+            <number>5863623226</number>
+        </restaurant>
+        <Category>
+            <name>Italian cuisine</name>
+        </Category>
+        <Dishes>
+            <dishName>Tiramisu</dishName>
+            <category>Cake</category>
+            <description>Flavours: Vanilla, Chocolate, Lady Fingers, Raspberry, maskarpone, coffee </description>
+            <price>5.10</price>
+        </Dishes>
+        <Dishes>
+            <dishName>Canoli</dishName>
+            <category> Biscuits</category>
+            <description>Ingredients: Flour, Eggs, Sugar, Butter, Lemon, Almond Flakes, ricotta cheese, chocolate.</description>
+            <price>2.20</price>
+        </Dishes>
+
+    </restaurant-info>
+</restaurants-data>
